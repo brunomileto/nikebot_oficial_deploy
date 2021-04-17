@@ -46,16 +46,16 @@ LOGGER = logging.getLogger()
 
 
 class Data:
-    email = "brunomill3003@gmail.com"
+    email = ""
     shoe_link = "https://www.nike.com.br/Snkrs/Produto/PG-4-PCG/153-169-211-256112"
-    password = "Miletominarlz1"
+    password = ""
     shoe_size = "43"
-    card_number = "5328203212793353"
-    sec_code = '001'
-    card_name = 'BABA M D A'
-    cpf = '123.456.789-10'
-    card_month = '10'
-    card_year = '2022'
+    card_number = ""
+    sec_code = ''
+    card_name = ''
+    cpf = ''
+    card_month = ''
+    card_year = ''
     installment = '2'
     years_list = [2020, 2021, 2022, 2023, 2024, 2025, 2026,
                   2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034]
