@@ -1,2 +1,2 @@
 # nikebot_oficial_deploy
-NikeBot Software
+Selenium bot to buy shoes at nike.com.br
